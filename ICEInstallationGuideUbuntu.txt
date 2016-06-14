@@ -1,17 +1,19 @@
-Make sure you have Python 2.7.X (the X can be anything, really) and Sublime (http://askubuntu.com/questions/521265/how-to-install-sublime-text-2-instead-of-3-from-webupd8team-ppa)
+Make sure you have Python 2.7.X (the X can be anything) and Sublime
+(http://askubuntu.com/questions/521265/how-to-install-sublime-text-2-instead-of-3-from-webupd8team-ppa)
+
 Install the necessary libraries to the computer (not to a directory within the computer).
 OpenCV: http://rodrigoberriel.com/2014/10/installing-opencv-3-0-0-on-ubuntu-14-04/
 Scipy: http://www.scipy.org/install.html
 Scikit-Image: http://scikit-image.org/download.html
 Download the necessary Python files from the Code folder - pay attention to the correct version of the code that corresponds to the version of openCV you have.
+
 To check that everything works, run round1.py. If it runs free of errors, you’re good to do!
+
 You need to make sure you have all your images in the same directory, and that the name of this directory is put into the proper place in the round1.py file.
 This first set of images must all be the same size.
 You also need a second directory for the smaller images. Again, place this directory name into the round1.py file at the proper location.
 It needs to be named 200images
 
-
-
 OpenCV
 1st step: Install the Dependencies
 To install the dependencies required from OpenCV, just run the following commands:
