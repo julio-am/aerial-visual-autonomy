@@ -6,7 +6,7 @@ ICE.py contains a compilation of image matching algorithms that work together to
 
 Instructions on instaling the necessary libraries and running the code can be found in ICEInstallationGuideUbuntu.txt
 
-## ICE Installatio Guide
+## ICE Installation Guide
 
 Make sure you have Python 2.7.X (the X can be anything) and Sublime
 (http://askubuntu.com/questions/521265/how-to-install-sublime-text-2-instead-of-3-from-webupd8team-ppa)
